@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+ name: pod-tarea32
+ labels:
+   app: nginx
+   service: web
+   autor: jaime
+spec:
+ containers:
+   - image: iesgn/test_web:latest
+     name: contenedor-tarea32
+     imagePullPolicy: Always
