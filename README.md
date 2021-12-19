@@ -9,6 +9,8 @@
 ## Referencias
 [k0s](https://docs.k0sproject.io/v1.22.4+k0s.1/install/)  
 [youtube](https://www.youtube.com/watch?v=gmFSmzAWcig)  
+[ichi](https://ichi.pro/es/k0s-kubernetes-en-un-solo-binario-37708541936928)  
+
 ## Licencia
 
 ![licencia](https://github.com/jaimeod010/k0s/blob/main/imagenes/licencia.png) 
