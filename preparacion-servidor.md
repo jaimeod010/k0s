@@ -10,4 +10,8 @@ chmod 400 default.pem
 
 ```
 ![ssh](https://github.com/jaimeod010/k0s/blob/main/imagenes/chmod-ssh.png)
+```
+ssh -i default.pem  root@217.71.205.219
+
+```
 ![ssh](https://github.com/jaimeod010/k0s/blob/main/imagenes/conexionssh-servidork0s.png)
